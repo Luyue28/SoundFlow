@@ -1,2 +1,14 @@
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://svelte.dev/docs/kit">svelte.dev/docs/kit</a> to read the documentation</p>
+<script>
+    import Guide from "$lib/components/Guide.svelte";
+</script>
+
+<div class="main-content mt-4 flex flex-1">
+	<Guide />
+</div>
+
+<style>
+	.main-content {
+		display: flex;
+		flex-grow: 1;
+	}
+</style>
