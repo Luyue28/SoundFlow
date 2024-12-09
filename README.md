@@ -1,38 +1,29 @@
-# sv
+## Home Page
+- [ ] Introduction to white noise and its benefits.
+- [ ] Overview of the app’s features.
+- [ ] Link to the tutorial for users.
+- [ ] Explain the development motivation, contact details, and ways to support the project.
 
-Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
+## Tutorial Page
+- [ ] Step-by-step guide to using the app:
+  - [ ] How to create and save templates.
+  - [ ] How to use the Workspace and manage tasks.
+  - [ ] How to view analytics and share data.
+- [ ] Troubleshooting and FAQs.
 
-## Creating a project
+## Workspace Page
+- [ ] Create, edit, and save custom white noise templates.
+- [ ] Play selected white noise combinations with real-time adjustments.
+- [ ] Focus mode: start a project, and track time spent.
+- [ ] Add and manage to-do items.
 
-If you're seeing this, you've probably already done this step. Congrats!
+## Profile Page
+- [ ] View personal activity summary (e.g., total focus time, favorite noise combinations).
+- [ ] Access detailed analytics and generate data visualizations for specific time periods.
+- [ ] Manage account details.
 
-```bash
-# create a new project in the current directory
-npx sv create
-
-# create a new project in my-app
-npx sv create my-app
-```
-
-## Developing
-
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
-
-```bash
-npm run dev
-
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
-
-## Building
-
-To create a production version of your app:
-
-```bash
-npm run build
-```
-
-You can preview the production build with `npm run preview`.
-
-> To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
+## About Page
+- [ ] Background story and motivation for developing the app.
+- [ ] Contact information (e.g., email, social media links, GitHub).
+- [ ] Links for donations.
+- [ ] Additional explanations.
