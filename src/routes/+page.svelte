@@ -1,9 +1,7 @@
 <script>
-    import Guide from "$lib/components/Guide.svelte";
 </script>
 
-<div class="main-content mt-4 flex flex-1">
-	<Guide />
+<div class="main-content mt-4 flex flex-col items-center gap-4">
 </div>
 
 <style>
